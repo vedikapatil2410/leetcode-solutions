@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vedikapatil2410/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0283-move-zeroes](https://github.com/vedikapatil2410/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vedikapatil2410/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/vedikapatil2410/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vedikapatil2410/leetcode-solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/vedikapatil2410/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
